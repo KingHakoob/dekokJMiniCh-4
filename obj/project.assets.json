@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jacob\\.nuget\\packages\\": {}
+    "C:\\Users\\Reyes\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\Level#1\\Homework\\dekokJMiniCh#4\\dekokJMiniCh#4.csproj",
+      "projectUniqueName": "C:\\Users\\Reyes\\Documents\\GitRepository\\dekokJMiniCh-4-1\\dekokJMiniCh#4.csproj",
       "projectName": "dekokJMiniCh#4",
-      "projectPath": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\Level#1\\Homework\\dekokJMiniCh#4\\dekokJMiniCh#4.csproj",
-      "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\Level#1\\Homework\\dekokJMiniCh#4\\obj\\",
+      "projectPath": "C:\\Users\\Reyes\\Documents\\GitRepository\\dekokJMiniCh-4-1\\dekokJMiniCh#4.csproj",
+      "packagesPath": "C:\\Users\\Reyes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Reyes\\Documents\\GitRepository\\dekokJMiniCh-4-1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Reyes\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
